@@ -1,4 +1,6 @@
-# Om adaptiv
+---
+title: Om Adaptiv
+---
 
 ## Kontakta oss
 
