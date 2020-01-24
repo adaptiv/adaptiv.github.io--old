@@ -36,5 +36,13 @@ Johan Dewe
 ### Konsultprofiler
 
 ## Nätverket Nodium
+Nodium är ett nätverk för oberoende, medarbetarstyrda konsultbolag med ett gemensamt syfte. De företag som är med i nätverket kallar vi för noder.
+
+Vi i nätverket vill, på olika sätt, bidra till att skapa den nya tidens företag. Företag som bidrar till en bättre tillvaro för sin omgivning. Företag som skapar en omgivning som är meningsfull och inspirerande för medarbetarna.
+
+Det gemensamma mellan noderna i nätverket är vårt syfte, skillnaden vi utgör i världen. Kraften av alla noder i nätverket hjälper oss att göra detta starkare. Vi drivs inte främst av pengar. Vi lever efter det själva. Vi vill att andra ska få uppleva det. Därför finns Nodium.
 
 ### Intresserad av att ingå i nätverket
+Det första steget är att ni träffar någon eller några representanter från Nodium som berättar om vårt upplägg. Om båda parter tycker att det känns intressant att gå vidare medverkar ni på en eller flera nätverksträffar för att få en möjlighet att uppleva arbetet i nätverket. På en sådan träff får man möjligheten att dela med sig av sina förväntningar och förhoppningar på nätverket och även få en bild av övriga företag inom nätverket. Om man vill gå vidare efter det utvärderar vi tillsammans förutsättningarna för att man ska kunna gå med (se “Får jag gå med?”). Om alla noder i Nodium ger sitt medgivande är ni välkomna att ansluta.
+
+Vi söker bolag i storleksordningen 3-9 personer, eller personer som vill bilda bolag. Bolaget ska vara medarbetarstyrt med intern transparens, ha en organisation och inriktning som är i samklang med det övergripande nätverkssyftet (se ovan). Vi vill att ert bolag har en ekonomiskt rättvis modell, det vill säga att vissa individer inte tjänar oskäligt mycket pengar på andra. Inom Nodium vill vi vara så öppna som möjligt mellan noderna. Vi vill också att alla noder engagerar sig i arbetet i Nodium och deltar i gemenskapen.
