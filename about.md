@@ -28,7 +28,7 @@ Några intressanta egenskaper med Adaptiv:
 ## Vi som jobbar på Adaptiv
 
 Johan Dewe 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Johan Dewe](/assets/dewe.jpg "Title for Dewe's image")
 
 ### Konsultprofiler
 
