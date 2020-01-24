@@ -5,13 +5,19 @@ title: Om Adaptiv
 ## Kontakta oss
 
 ## Syfte
+Adaptiv finns för att värna om våra medarbetare, våra kunder och det samhälle inom vilket vi verkar.
+Adaptiv ämnar vara flexibelt och följa behoven hos våra medarbetare.
+I kontakten med våra kunder försöker vi hjälpa dem att nå långlivad framgång genom att hjälpa dem utveckla förmågor som ska ge dem varaktig affärsagilitet.
+Vi ser det som en viktig del att investera en del av vår vinst i allmännyttiga aktiviteter så som välgörenhet, klimatkompensation och intressehöjande utbildningar och seminarier.
 
 ### Vision
+Ett samhälle som med ett holistiskt perspektiv ger sina invånare ett liv med frihet, balans och respekt. Ett samhälle med företag som är lönsamma, inte för att de optimerat bort alla andra aspekter men för att de förstår hur de fungerar framgångsrikt i en helhet.
 
 ### Mission
+Hjälpa företag och individer att hitta en gynnsam väg mot relevanta resultat. Utveckla förmågor att möta en ständigt mer föränderlig omvärld med hjälp av ett agilt förhållningssätt. 
 
 ## Historik och Bakgrund
-1:a april 2009 drog Adaptiv STHLM AB i gång. Jocke, Måns och Johan började leverera konsulttjänster inom systemutveckling baserad på agila värderingar och arbetssätt. Två år senare tillkom Adam som delägare. Under åren som gått sedan dessa har vi gjort nya erfarenheter, breddat vår kompetens och tagit nya roller, men rötterna från Lean och Agile står vi fast vid.
+1:a april 2009 drog Adaptiv STHLM AB i gång. Jocke, Måns och Johan började leverera konsulttjänster inom systemutveckling baserad på agila värderingar och arbetssätt. Två år senare tillkom Adam som delägare och 2016 anslöt även Johan Dewe som delägare. Under åren som gått sedan dessa har vi gjort nya erfarenheter, breddat vår kompetens och tagit nya roller, men rötterna från Lean och Agile står vi fast vid.
 
 ## Referenser
 
