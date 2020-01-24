@@ -24,6 +24,9 @@ Några intressanta egenskaper med Adaptiv:
 * Även om vi ofta arbetar som coacher, utbildare, verksamhetsutvecklare och liknande vill ingen av oss lämna systemutvecklingen. Det är ju vårt jobb!
 
 ### Open book accounting
+Vi på Adaptiv har valt att fortlöpande presentera vår ekonomiska redovisning öppet. Vi vill att du som kund ska få veta vad du betalar för och var dina pengar går, samt att andra företag som liknar oss kan få möjlighet att benchmarka sig med oss.
+
+På Wikipedia kan du läsa mer om [öppen redovisning](https://en.wikipedia.org/wiki/Open-book_Accounting).
 
 ## Vi som jobbar på Adaptiv
 
