@@ -4,10 +4,21 @@
 
 @import "minima-{{ site.minima.skin | default: 'classic' }}";
 
-header.site-header {
+.site-header {
     background-color: #62822d;
 }
 
 .site-nav .page-link {
     color: #fff;
 }
+
+.site-title {
+    width: 122px;
+    height: 30px;
+    background-image: url("{{ 'assets/adaptiv_small.png' | relative_url }}");
+
+    span {
+        display: none;
+    }
+}
+  
