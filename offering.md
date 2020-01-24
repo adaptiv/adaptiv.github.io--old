@@ -1,3 +1,6 @@
+--
+title: Erbjudande
+--
 Adaptiv är ett IT-konsultbolag med verksamhet i Stockholmsområdet. Vårt område är systemutveckling och vår specialistkompetens finns inom Lean och agila metoder. Vår utgångspunkt är att de produkter, system och funktioner vi skapar ska ge verklig affärsnytta och nöjda kunder. Vi kan skapa de metodmässiga och tekniska förutsättningarna för detta.
 
 ## Våra tjänster
