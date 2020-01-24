@@ -39,9 +39,11 @@ Hur kan vi ta oss från tomma ritualer till agila team på riktigt? I samarbete 
 
 ## Värdefokuserande teamarbetssätt
 
-En guide till produkt- och systemutveckling ur ett teamperspektiv. I boken presenteras åtta, grundläggande arbetssätt som hjälper din organisation att bemästra skapandet av värdefull mjukvara genom samarbete och lärande. Till varje arbetssätt hör ett antal rekommendationer och tips samt länkar för att läsa vidare. Författarna delar även med sig av sina erfarenheter från den så kallade "verkligheten". Boken innehåller också en kort novell om ett företag som är duktigt på att jobba på detta sätt.
+![Bokomslag](/assets/book-valuefocusing-teampractices-front.jpg "Värdefokuserande teamarbetssätt")
 
-Boken är skriven av Joakim Manding Holm tillsammans med Jagannath Tammeleht. Boken är illustrerad av Emily Ryan.
+Värdefokuserande teamarbetssätt är en kort och lättläst guide till produkt- och systemutveckling ur ett teamperspektiv. I boken presenteras åtta, grundläggande arbetssätt som hjälper din organisation att bemästra skapandet av värdefull mjukvara genom samarbete och lärande. Till varje arbetssätt hör ett antal rekommendationer och tips samt länkar för att läsa vidare. Författarna delar även med sig av sina erfarenheter från den så kallade "verkligheten". Boken innehåller också en kort novell om ett företag som är duktigt på att jobba på detta sätt.
+
+Boken är skriven av Joakim Manding Holm. Medförfattare är Jagannath Tammeleht. Boken är illustrerad av Emily Ryan.
 
 [Köp boken här](https://widget.publit.com/adaptivpub_2289/vardefokuserande-teamarbetssatt/9789176116883)
 
