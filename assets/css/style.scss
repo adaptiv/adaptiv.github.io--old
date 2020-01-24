@@ -13,10 +13,10 @@
 }
 
 .site-title {
+    margin: 14px 0 14px 0;
     width: 122px;
     height: 30px;
     background-image: url("{{ 'assets/adaptiv_small.png' | relative_url }}");
-
     span {
         display: none;
     }
