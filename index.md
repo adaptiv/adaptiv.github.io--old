@@ -1,4 +1,6 @@
-# Adaptiv
+---
+  title: Adaptiv
+---
 
 ## Aktuellt/Events
 
