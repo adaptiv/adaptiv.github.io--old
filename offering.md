@@ -1,31 +1,24 @@
 ---
 title: Erbjudande
 ---
-Adaptiv är ett IT-konsultbolag med verksamhet i Stockholmsområdet. Vårt område är systemutveckling och vår specialistkompetens finns inom Lean och agila metoder. Vår utgångspunkt är att de produkter, system och funktioner vi skapar ska ge verklig affärsnytta och nöjda kunder. Vi kan skapa de metodmässiga och tekniska förutsättningarna för detta.
+Adaptiv är ett konsultbolag med verksamhet i Stockholmsområdet. Vårt område är system- och verksamhetsutveckling och vår specialistkompetens finns inom Lean och agila metoder.
 
 ## Våra tjänster
 
-### Agil coachning  
-TBD
+### Agil coachning
+När du vill ha fortlöpande stöd på er agila resa. En agil coach kan jobba med ett team, flera team, en utvecklingsavdelning eller hela organisationen. Oavsett om ni är inne i en större förändring eller om ni redan har kommit ganska långt kan våra coacher hjälpa er vidare till nästa nivå.
 
 ### Teknisk coachning
-TBD
+När du vill ha fortlöpande tekniskt stöd för ett eller flera team. Våra tekniska coacher kombinerar lång erfarenhet av systemutveckling med agila, tekniska arbetssätt samt ett coachande förhållningssätt.
 
 ### Agil systemutveckling
-TBD
+När du vill förstärka ett utvecklingsteam med en erfaren systemutvecklare med kunskap om agila, tekniska arbetssätt.
 
 ### Utbildning
-TBD
-
-### Ledarskapscoachning
-TBD
-
-### Organizational development
-TBD
+Adaptiv kan erbjuda många typer av kurser och workshops i allt från Agil introduktion till Domändriven design. Kontakta oss för en fullständig lista.
 
 ### Tuff-Adaptiv agila team  
-Tuff Ledarskapsträning och Adaptiv guidar team och ledare att
-förflytta sig från tomma ritualer till meningsfull agilitet.
+Som ett alternativ till traditionell utbildning för utvalda personer erbjuder vi, tillsammans med Tuff ledarskapsträning, specialister på coachande ledarskap och arbetsklimat, en unik tjänst på marknaden. Tjänsten innebär att ett team och dess ledare går in i en behovsdriven process tillsammans med våra tränare/coacher. Målet med processen är en konkret, mätbar förflyttning till ett nytt och hållbart läge, där deltagarna upplever ett bättre arbetsklimat, meningsfulla arbetssätt, tydligare ägarskap, och bättre resultat. Priset för förflyttningen är ett fast pris per deltagare med resultatgaranti. 
 
 [Läs mer](https://www.tuffledarskapstraning.se/tuff-adaptiv-agila-team/)
 
@@ -33,7 +26,11 @@ förflytta sig från tomma ritualer till meningsfull agilitet.
 
 ### Frukostseminarium: Går din agila transformation på tomgång?
 
-Hur kan vi ta oss från tomma ritualer till agila team på riktigt? I samarbete med Tuff ledarskapsträning. 
+Har er agila transformation genomförts framgångsrikt? Grattis! Då är ni en av de få. För många andra har det gått lite i stå. Vi ser inte de agila löftena förverkligas i form av engagerade medarbetare, högre kvalitet, bättre service och nöjdare kunder. Det finns ett gap mellan vision och verklighet. 
+
+Så hur kan vi ta oss från tomma ritualer till agila team på riktigt?
+
+Seminariet ges i samarbete med Tuff ledarskapsträning. Nästa tillfälle: 31 januari 2020.
 
 [Till anmälan](https://www.tuffledarskapstraning.se/gar-din-agila-transformation-pa-tomgang/)
 
@@ -46,4 +43,3 @@ Värdefokuserande teamarbetssätt är en kort och lättläst guide till produkt-
 Boken är skriven av Joakim Manding Holm. Medförfattare är Jagannath Tammeleht. Boken är illustrerad av Emily Ryan.
 
 [Köp boken här](https://widget.publit.com/adaptivpub_2289/vardefokuserande-teamarbetssatt/9789176116883)
-
