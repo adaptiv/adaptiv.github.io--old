@@ -8,7 +8,7 @@
 
 ### Mission
 
-## Historik och Bakgrun
+## Historik och Bakgrund
 
 ## Referenser
 
