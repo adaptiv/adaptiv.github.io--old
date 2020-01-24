@@ -85,7 +85,7 @@ Måns har tryggheten och kompetensen att vägleda arbetet att skapa en organisat
 Han har erfarenhet från agil utveckling, allt ifrån det tekniska, till ledarskap, organisation och förändringsledning. 
 Bland erfarenheterna märks vägtullsprojektet där han var med och etablerade agila team som levererade en produkt av hög kvalitet och utvecklingen av den nya, agilt inriktade, IT-organisationen på Skandia Liv. Gift tvåbarnsfar, boende i Gubbängen i Stockholm där han gillar att löpträna och fotografera på fritiden.
 
-### Konsultprofiler
+![Konsultprofil](/assets/Måns_Sandström_Konsultprofil_Adaptiv-sv.pdf)
 
 ## Nätverket Nodium
 Nodium är ett nätverk för oberoende, medarbetarstyrda konsultbolag med ett gemensamt syfte. De företag som är med i nätverket kallar vi för noder.
