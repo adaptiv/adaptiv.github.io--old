@@ -38,10 +38,53 @@ På Wikipedia kan du läsa mer om [öppen redovisning](https://en.wikipedia.org/
 
 ## Vi som jobbar på Adaptiv
 
-Johan Dewe 
+### Johan Dewe 
 <span class="mug_shot">
 ![Johan Dewe](/assets/dewe.jpg "Title for Dewe's image")
 </span>
+
+Johan Dewe är en utvecklare och arkitekt som har kodat system, oftast bakom webben, sedan mitten av nittiotalet. En genomgående röd tråd har varit fokus på kompetens- och teambyggande. Johan verkar helst i skärningspunkten mellan sund arkitektur, sund kod och sunda utvecklingsmetoder - strävar efter förenkling och förbättring av både kod och process.
+
+Johan har varit med Adaptiv sedan september 2016, och kommer senast från startup-världen, och innan dess från den digitala sidan av resebranschen. När Johan inte sysslar med systemutveckling så blir det helst tid med familjen, och gärna en sväng i skogen på mountainbike.
+
+### Joakim Holm 
+<span class="mug_shot">
+![Joakim Manding Holm](/assets/joakim.jpg "Title for Jocke's image")
+</span>
+
+Joakim är en ovanlig konsult i det att hans horisont sträcker sig långt utöver den vanliga. En metodförändring med honom kommer att involvera hela organisationen, detta eftersom värdeströmmar och företagskultur inte tenderar att hålla sig inom prydliga organisatoriska lådor. Joakims passion och engagemang gör att han inte ger upp när han stöter på utmaningar och han har ett sinne för konsekvens, signalvärden och helhet.
+
+Joakim har lång erfarenhet av att coacha agila team och införa nya arbetssätt. Han hade till exempel stor del i TUI Nordics satsning på agil utveckling, ett arbete som ledde fram till en helt ny organisationsstruktur med fasta utvecklingsteam ledda av teamcoacher. Joakim gillar att dela med sig av sin kunskap, ibland som talare på konferenser. Han läser mycket och lär sig genom att själv sammanfatta egna tankar och insikter i bloggform. Löpning och pianospelande är Joakims sätt att koppla av och reflektera.
+
+### Adam Killander 
+<span class="mug_shot">
+![Adam Killander](/assets/adam.jpg "Title for Adam's image")
+</span>
+
+Ett team som arbetat med Adam känns igen på deras engagerade och utåtriktade kommunikation och deras fokus på att leverera demonstrerbar funktionalitet. Adam är en systemutvecklare som blivit teamledare och förbättringscoach och han brinner för att hitta praktiska övningar som leder teamen till nya uppbyggliga insikter. Adam älskar att förmedla det han kan för andra och han gör det med medvetna pedagogiska grepp. Han sporras av att utvecklas tillsammans med andra människor i arbetet.
+
+Team och ledarskap som utvecklats med Adams hjälp återfinns på Skandia, Linkon, Arbetsförmedlingen och TUI Nordic.
+
+Adam har också hållit flera bejublade tal på Agila Sverige, SAST och hos kunder där han utnyttjat sin dramatiska förmåga. Han är gift familjefar och bor i Solna utanför Stockholm.
+
+### Johan Hallstensson 
+<span class="mug_shot">
+![Johan Hallstensson](/assets/johan.jpg "Title for Johan's image")
+</span>
+
+Johan är en erfaren och kunnig utvecklare som noga följer med i den tekniska frontlinjen. Att hålla det enkelt och inte krångla till processer, arkitektur eller design är en av Johans nyckelkompetenser, liksom hans förmåga till vardagligt samarbete.
+
+Johan har med sin långa erfarenhet som utvecklare verkat i flera olika programmeringsspråk och miljöer. Han är väl bevandrad i flera olika agila metoder och bryr sig inte bara om hur resultatet blir utan även hur människorna som åstadkommer det mår.
+
+### Måns Sandström 
+<span class="mug_shot">
+![Måns Sandström](/assets/mans.jpg "Title for Måns's image")
+</span>
+
+Måns har tryggheten och kompetensen att vägleda arbetet att skapa en organisation genomsyrad av agila värderingar och vanor. Genom att kombinera kunskap om agila förhållningssätt och förändringspsykologi hjälper han er att tänka i nya banor och åstadkomma förändring som ger effekt.
+Han har erfarenhet från agil utveckling, allt ifrån det tekniska, till ledarskap, organisation och förändringsledning. 
+Bland erfarenheterna märks vägtullsprojektet där han var med och etablerade agila team som levererade en produkt av hög kvalitet och utvecklingen av den nya, agilt inriktade, IT-organisationen på Skandia Liv. Gift tvåbarnsfar, boende i Gubbängen i Stockholm där han gillar att löpträna och fotografera på fritiden.
+
 ### Konsultprofiler
 
 ## Nätverket Nodium
