@@ -3,3 +3,7 @@
 ---
 
 @import "minima-{{ site.minima.skin | default: 'classic' }}";
+
+header.site-header {
+    background-color: #62822d;
+}
