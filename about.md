@@ -39,8 +39,9 @@ På Wikipedia kan du läsa mer om [öppen redovisning](https://en.wikipedia.org/
 ## Vi som jobbar på Adaptiv
 
 Johan Dewe 
+<span class="mug_shot">
 ![Johan Dewe](/assets/dewe.jpg "Title for Dewe's image")
-
+</span>
 ### Konsultprofiler
 
 ## Nätverket Nodium
