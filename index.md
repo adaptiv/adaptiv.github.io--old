@@ -4,8 +4,8 @@
 
 ## Aktuellt/Events
 
-## Blog
-
 ## Erbjudande
 
 ## Kontakt
+
+## Blog
